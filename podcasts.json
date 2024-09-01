@@ -1388,6 +1388,12 @@
         "hidden": true
     },
     {
+        "id": "urix_paa_loerdag",
+        "title": "De 10 siste fra Urix på lørdag (radioversjonen)",
+        "season": null,
+        "enabled": true
+    },
+    {
         "id": "utakt",
         "title": "De 10 siste fra Utakt",
         "season": null,
@@ -1403,7 +1409,7 @@
     },
     {
         "id": "verden_paa_loerdag",
-        "title": "De 10 siste fra Urix på lørdag",
+        "title": "De 10 siste fra Urix (podcast)",
         "season": null,
         "enabled": true
     },
